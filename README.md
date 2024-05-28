@@ -3,8 +3,9 @@
 The code is written in JavaScript using Node.js and Express.JS, and it demonstrates basic operations such as generating card tokens and managing payments and preferences.
 
 Before running this project, ensure you have the following installed:
-    - Node.js (version 20 or higher)
-    - npm or yarn
+
+- Node.js (version 20 or higher)
+- npm or yarn
 
 Additionally, you will need a Mercado Pago account to obtain your ML_ACCESS_TOKEN.
 
