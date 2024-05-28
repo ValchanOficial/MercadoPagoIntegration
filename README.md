@@ -14,30 +14,22 @@ Mercado Pago Docs: [https://www.mercadopago.com.br/developers/en/reference](http
 
 Clone the repository:
 
-    ```sh
     git clone https://github.com/your-repo/mercadopago-integration.git
     cd mercadopago-integration
-    ```
 
 Install the dependencies:
 
-    ```sh
     npm install
-    ```
 
 Create a .env file in the root directory and add your MercadoPago access token:
 
-    ```
     ML_ACCESS_TOKEN=your_access_token_here
-    ```
 
 ## Running the Server
 
 To start the server, run:
 
-    ```sh
     npm start
-    ```
 
 The server will be running on `http://localhost:3000`.
 
@@ -75,6 +67,4 @@ Handles incoming notifications from Mercado Pago.
 To test the endpoints, you can use tools like Postman or curl.
 For example, to get a card token:
 
-    ```sh
     curl http://localhost:3000/card_token
-    ```
