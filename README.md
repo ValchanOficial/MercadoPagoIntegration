@@ -7,7 +7,7 @@ Before running this project, ensure you have the following installed:
 - Node.js (version 20 or higher)
 - npm or yarn
 
-Additionally, you will need a Mercado Pago account to obtain your ML_ACCESS_TOKEN.
+Additionally, you will need a Mercado Pago account to obtain your `ML_ACCESS_TOKEN`.
 
 Mercado Pago Docs: [https://www.mercadopago.com.br/developers/en/reference](https://www.mercadopago.com.br/developers/en/reference)
 
